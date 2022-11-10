@@ -1,7 +1,7 @@
 var miobjeto = {
 nombre: "Juan",
 edad: 30
-}
+};
 function calcula(){
     var operando1 = document.forms[0].operando1.value
     var operando2 = document.forms[0].operando2.value
